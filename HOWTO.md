@@ -10,6 +10,7 @@ To run scripts for a specific package, use the following commands:
   npx nx run instrumentation-aws-lambda:lint
   npx nx run instrumentation-aws-lambda:compile
   npx nx run instrumentation-aws-lambda:compile:with-dependencies
+  npx nx run instrumentation-aws-lambda:version:update
   ```
 
 ## Publish packages to npm under personal scope

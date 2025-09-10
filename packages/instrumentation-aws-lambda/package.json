@@ -1,6 +1,6 @@
 {
   "name": "@wingy3181/instrumentation-aws-lambda",
-  "version": "0.54.0-sqs.context.propagation",
+  "version": "0.54.0-sqs.context.propagation.0",
   "description": "OpenTelemetry instrumentation for AWS Lambda function invocations",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
